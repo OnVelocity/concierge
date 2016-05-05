@@ -1,0 +1,33 @@
+
+Demo Box Design Notes
+
+Box ID (inner dimension) 22.9x 24.65
+RPi 3.37 x 2.204 x 0.8268 in (8.6 cm x 5.6x2.1 cm)
+UDOO 4.33 inch x 3.35 inch (11 cm x 8.5 cm)
+
+
+Doorbell Side (deeper side)
+120v power, 12v power, 5v power
+RPi
+two doorbell buttons
+
+Home Side
+12v power, 5v power
+udoo or RPi
+LCD screen (deco 4.355 x 2.6)
+Mic Board Dimensions: 26mm x 14mm / 1" x .6" diameter 9.8mm
+
+faceplate is only 2 layers
+1deco layer
+	vector cut out the touch screen area
+	raster (or mill) etch out the inset for the offscreen area
+2base layer
+	vector cut out big enough for PCB and hdmi connectors
+
+Open Questions
+How to mount speakers to minimize / eliminate feedback loop?
+	- aim speaker airflow down not out
+	- use silicon rubber to glue mic and speaker to faceplate layers
+
+
+

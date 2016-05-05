@@ -1,0 +1,9 @@
+{
+	"host": "A1FS60OSSL0MEI.iot.us-east-1.amazonaws.com",
+	"port": 8883,
+	"clientId": "home-button-test-2",
+	"thingName": "home-button-test-2",
+	"caCert": "root-CA.crt",
+	"clientCert": "1899f3f98c-certificate.pem.crt",
+	"privateKey": "1899f3f98c-private.pem.key"
+}

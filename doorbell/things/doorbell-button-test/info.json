@@ -1,0 +1,9 @@
+{
+	"host": "A1FS60OSSL0MEI.iot.us-east-1.amazonaws.com",
+	"port": 8883,
+	"clientId": "doorbell-button-test",
+	"thingName": "doorbell-button-test",
+	"caCert": "root-CA.crt",
+	"clientCert": "18d292f03f-certificate.pem.crt",
+	"privateKey": "18d292f03f-private.pem.key"
+}
